@@ -1,6 +1,7 @@
-// Created by: Scott Grivner
-// Website: https://www.scottgrivner.com
-/// Introduced in Swift 4, the Codable API enables us to leverage the compiler in order to generate much of the code needed to encode and decode data to/from a serialized format, like JSON.
+// Author: Scott Grivner
+// Website: scottgrivner.dev
+// Abstract:
+// Introduced in Swift 4, the Codable API enables us to leverage the compiler in order to generate much of the code needed to encode and decode data to/from a serialized format, like JSON.
 
 import Foundation
 
