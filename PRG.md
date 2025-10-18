@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** Swift, JSON <br>
 **Category:** Tutorial, Examples <br>
-**Order:** 47 <br>
+**Order:** 45 <br>
 
 ## Parameters
 
